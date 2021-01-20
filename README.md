@@ -1,0 +1,2 @@
+# VIRTUAL-HOSPITAL
+Virtual Hospital is an international non-government organization that operates as part of Virtual Healthcare Limited. Virtual Hospital uses telemedicine to deliver medical care to the developing world. Virtual Hospital works directly with doctors and patients and seeks to ensure that the benefits of modern medicine are available to all people and that the poor are not deprived of medical treatment for want of money, or a lack of access to effective healthcare
